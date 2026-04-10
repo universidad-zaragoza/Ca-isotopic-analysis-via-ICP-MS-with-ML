@@ -10,7 +10,6 @@ import pandas as pd
 from sklearn.metrics import mean_squared_error, mean_absolute_error, mean_absolute_percentage_error, r2_score, d2_absolute_error_score
 from error import error
 from sklearn.neural_network import MLPRegressor
-from scipy.stats import norm
 import os
 import joblib
 from datetime import datetime
